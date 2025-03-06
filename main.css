@@ -37,7 +37,7 @@ grid-template-areas:
     "a a";
 }
 
-.history {
+history {
 grid-area: h;
 }
 

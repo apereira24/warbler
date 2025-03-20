@@ -114,7 +114,11 @@ p{
     }
     
 }
-
+/*animation for the variations section */
+/*the animated weight change
+.weight
+/*the animated optical size change
+.optical-size
 /* variable font that changes on hover */
 .variable-font{
     font-weight:1 ;

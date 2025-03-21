@@ -8,7 +8,7 @@
   
   header {
     /* where to set the color of the nav bar */
-      background: rgb(168, 163, 40);
+      background: #C8C1A1;
       text-align: center;
       top:0px;
       position: center;
@@ -26,7 +26,7 @@
       padding-top:10px;
       top: 100%;
       left: 0;
-      background: rgb(38, 255, 0);
+      background: #26ff00;
       width: 100%;
       transform: scale(1,0);
       transform-origin: top;
@@ -45,7 +45,7 @@
   }
   
   nav a { 
-      color: rgb(58, 96, 45);
+      color: #000000;
       text-decoration: none;
       font-size: 1.2rem;
       text-transform: uppercase;
@@ -54,7 +54,7 @@
   }
   /* where to change the font color of the nav bar pop-up */
   nav a:hover {
-      color: rgb(246, 255, 0);
+      color: rgb(0, 0, 0);
   }
   
   .nav-checkbox:checked ~ nav {

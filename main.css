@@ -17,7 +17,10 @@
         }
     
     body{
-    background-color: white;
+    background-color: #F4F3D6;
+}
+.hero{
+    background-image: url;
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -37,28 +40,28 @@ grid-template-areas:
     "a a";
 }
 
-history {
+#history {
 grid-area: h;
 }
 
-.variations{
+#variations{
 grid-area: v;
 }
 
-.alphabet {
+#alphabet {
 grid-area: a;
 }
 }
 /* CSS for the footer */
 footer{
-    background-color: gray;
+    background-color: #C8C1A1;
 }
 
 /* variable font animation */
 
 h1{
     font-family: "Warbler Variable";
-    color:orchid;
+    color:rgb(0, 0, 0);
 }
 
 h3{
@@ -68,7 +71,7 @@ h3{
     font-family: "Warbler Variable";
     line-height: 10px;
     animation: weightChange 7s infinite;
-    color: #6d7b60
+    color: #885E1E
 }
 
 h4{
@@ -79,7 +82,7 @@ h4{
     line-height: 10px;
     animation: weightChangeItalic 7s infinite;
     margin: 60px;
-    color: #6d7b60
+    color: #885E1E
 }
 
 .paragraph-hero{
@@ -90,7 +93,7 @@ h4{
 }
 
 p{
-    color: #6d7b60;
+    color: #885E1E;
     font-family: "Warbler Variable";
     font-size: 1em;
 

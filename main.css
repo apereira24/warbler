@@ -20,7 +20,9 @@
     background-color: #F4F3D6;
 }
 .hero{
-    background-image: url;
+    background-image: url("Images/Warblernew.png");
+    background-size: cover;
+    height: 600px;;
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
@@ -148,3 +150,10 @@ p{
     font-variation-settings: "wght" 120, "wdth" 0, "XXXX" 100;
 }
 
+.weight{
+    color: #885E1E;
+}
+
+.optical-size{
+    color: #885E1E;
+}
